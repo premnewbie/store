@@ -151,7 +151,7 @@ option{
 .products{
   display: flex;
   flex-wrap: wrap;
-  justify-content: flex-start;
+  justify-content: center;
   gap: 0.3rem;
   color: white;
   padding: 20px;
